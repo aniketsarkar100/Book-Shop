@@ -1,1 +1,2 @@
 # Book-Shop
+This Online Book Shop is a simple, responsive website built using HTML, CSS, JavaScript, and Bootstrap. It showcases a collection of 10 books with uniform styling and images. Users can add books to a cart and view selected items with their prices. The total price is calculated and displayed dynamically. A clean layout and background image enhance the UI. The project is hosted using GitHub Pages for public access.
